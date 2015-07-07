@@ -33,6 +33,7 @@ public class ChooseAreaActivity extends Activity {
 	public static final int LEVEL_CITY = 1;
 	public static final int LEVEL_COUNTY = 2;
 
+	
 	private ProgressDialog progressDialog;
 	private TextView titleText;
 	private ListView listView;
