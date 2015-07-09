@@ -24,6 +24,7 @@ public class CoolWeatherDB {
 	private static CoolWeatherDB coolWeatherDB;
 	private SQLiteDatabase db;
 
+	
 	/**
 	 * 将构造方法私有化
 	 */
